@@ -1,3 +1,4 @@
+![logo](https://github.com/ArathiPullott/ArathiPullott/blob/main/1704210510306.jpeg)
 <h1 align="center">Hi 👋, I'm Arathi M</h1>
 <h3 align="center">Data Science Architect: Building Insights with Python and ML</h3>
 
